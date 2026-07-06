@@ -136,8 +136,6 @@ developer:
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-4FC3F7?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Abhishek-Kaushal01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-*Update the LinkedIn/email links above with your real handles.*
-
 </div>
 
 <br/>
