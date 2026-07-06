@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhishek%20Kaushal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20Scalable%20Digital%20Products&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/Abhishek-Kaushal01">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+applications;MERN+Stack+%7C+REST+APIs+%7C+Cloud+Deployments;Turning+ideas+into+production-ready+products;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+applications;Full-Stack+JavaScript+%7C+REST+APIs+%7C+Cloud+Deployments;Turning+ideas+into+production-ready+products;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,7 +18,7 @@
 
 I'm a **Full-Stack Web Developer** who enjoys the entire lifecycle of a product — from wireframe to deployment. I care about writing code that's readable six months later, APIs that don't fall over under load, and interfaces that feel effortless to use.
 
-- 🔭 Currently building end-to-end **MERN stack** applications with clean architecture
+- 🔭 Currently building end-to-end **full-stack JavaScript** applications with clean architecture
 - 🌱 Deepening my knowledge of **system design** and **cloud deployment**
 - 🤝 Open to collaborating on **open-source** and **freelance** web projects
 - ⚡ Debugging philosophy: read the error message *first*, panic *second*
@@ -30,7 +30,7 @@ I'm a **Full-Stack Web Developer** who enjoys the entire lifecycle of a product 
 developer:
   name: Abhishek Kaushal
   role: Full-Stack Web Developer
-  stack: [MERN, REST APIs, SQL/NoSQL]
+  stack: [React, Node.js, Express, MongoDB]
   focus: Scalable Web Applications
   status: "Open to opportunities"
   motto: "Ship it, then improve it."
@@ -68,47 +68,55 @@ developer:
 
 ## 🚀 Featured Work
 
-<table width="100%">
-<tr>
-<th align="left" width="50%">Project</th>
-<th align="left" width="50%">Highlights</th>
-</tr>
-<tr>
-<td>
+<div align="center">
 
-**🛒 Full-Stack E-Commerce Platform**
+### 🎙️ Aviora — AI Voice Interview Companion
+
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white"/> <img src="https://img.shields.io/badge/Vapi_Voice_AI-FF6B6B?style=flat-square"/>
+
+A real-time, voice-driven mock interview platform. Users upload a resume, get matched into a timed **Interview Mode** session powered by voice AI, and receive an automated **post-session debrief** — with session history persisted via Supabase and auth handled by Clerk.
+
+`Dashboard` · `Resume-aware Interview Mode` · `Live Voice Sessions` · `Debrief Analytics`
+
+**[🌐 Live Demo](https://avioraai-4wlw.vercel.app/)&nbsp; | &nbsp;[📂 Repository](https://github.com/Abhishek-Kaushal01/avioraai)**
+
 <br/>
-`React` `Node.js` `Express` `MongoDB`
 
-</td>
-<td>
+---
 
-✅ JWT-based auth & role management<br/>
-✅ Product, cart & order pipeline<br/>
-✅ Admin analytics dashboard
-
-</td>
-</tr>
-<tr>
-<td>
-
-**📊 REST API & Dashboard Suite**
 <br/>
-`Node.js` `Express` `PostgreSQL`
+
+### 🧑‍💼 Hustlers — Full-Stack JavaScript Platform
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+
+A complete client-server web application split into independent **frontend** and **backend** services — a React SPA talking to a dedicated Express + MongoDB REST API, with the frontend shipped on Vercel and the API deployed separately on Render.
+
+`Decoupled Architecture` · `REST API` · `Controller/Model/Route Structure` · `Independent Deployments`
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Frontend**
+<br/>
+<a href="https://hustlers-frontend.vercel.app">🌐 Live</a> &nbsp;|&nbsp; <a href="https://github.com/Abhishek-Kaushal01/HustlersFrontend">📂 Repo</a>
 
 </td>
-<td>
+<td align="center" width="50%">
 
-✅ Modular, versioned REST endpoints<br/>
-✅ Auth middleware & rate limiting<br/>
-✅ Deployed with CI-friendly structure
+**Backend**
+<br/>
+<a href="https://hustlersbackend-8gad.onrender.com">🌐 Live</a> &nbsp;|&nbsp; <a href="https://github.com/Abhishek-Kaushal01/HustlersBackend">📂 Repo</a>
 
 </td>
 </tr>
 </table>
 
-<div align="right">
+<br/>
+
 <sub>🔗 Explore all repositories on <a href="https://github.com/Abhishek-Kaushal01?tab=repositories">my GitHub</a></sub>
+
 </div>
 
 <br/>
@@ -132,8 +140,8 @@ developer:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhishek-kaushal01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-4FC3F7?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abhishek-kaushal-738510258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="abhishekkaushal011@gmail.com"><img src="https://img.shields.io/badge/Email-4FC3F7?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Abhishek-Kaushal01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
