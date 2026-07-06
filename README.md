@@ -81,9 +81,11 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-kaushal-738510258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="abhishekkaushal011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-4ajg.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img height="165" src="https://github-readme-stats-black-omega-77.vercel.app/api?username=Abhishek-Kaushal01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-black-omega-77.vercel.app/api/top-langs/?username=Abhishek-Kaushal01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek-Kaushal01&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- TODO: replace every "your-..." link above with your real profile URLs -->
