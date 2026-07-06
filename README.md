@@ -4,11 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Hustlers+%E2%80%94+an+E-Commerce+Platform;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
 </p>
-
 ---
 
 ### 🚀 About Me
