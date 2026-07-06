@@ -140,9 +140,6 @@ A complete client-server web application split into independent **frontend** and
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kinshukkush/kinshukkush/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <sub>Live snake animation of my daily commit history — eats through the contribution graph in real time.</sub>
 
