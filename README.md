@@ -136,6 +136,15 @@ A complete client-server web application split into independent **frontend** and
 
 <br/>
 
+🐍 Daily Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Abhishek-Kaushal01/Abhishek-Kaushal01/output/github-contribution-grid-snake-dark.svg" alt="Daily contribution snake animation" width="90%"/>
+<sub>Live snake animation of my daily commit history — eats through the contribution graph in real time.</sub>
+
+</div>
+<br/>
+
 ## 🤝 Let's Connect
 
 <div align="center">
