@@ -139,8 +139,10 @@ A complete client-server web application split into independent **frontend** and
 ## 🐍 Daily Contribution Activity
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/kinshukkush/kinshukkush/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Abhishek-Kaushal01/Abhishek-Kaushal01/output/github-contribution-grid-snake-dark.svg" alt="Daily contribution snake animation" width="90%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <sub>Live snake animation of my daily commit history — eats through the contribution graph in real time.</sub>
 
@@ -155,8 +157,6 @@ A complete client-server web application split into independent **frontend** and
 <a href="https://www.linkedin.com/in/abhishek-kaushal-738510258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="abhishekkaushal011@gmail.com"><img src="https://img.shields.io/badge/Email-4FC3F7?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Abhishek-Kaushal01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-*Update the LinkedIn/email links above with your real handles.*
 
 </div>
 
