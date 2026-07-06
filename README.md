@@ -59,14 +59,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-black-omega-77.vercel.app/api?username=Abhishek-Kaushal01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-black-omega-77.vercel.app/api/top-langs/?username=Abhishek-Kaushal01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhishek-Kaushal01&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Kaushal01&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek-Kaushal01/Abhishek-Kaushal01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek-Kaushal01/Abhishek-Kaushal01/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Abhishek-Kaushal01/Abhishek-Kaushal01/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
